@@ -1,6 +1,6 @@
 -- Key KPIs for churn analysis
 
--- 1) Overallchurn rate (how many customers left?)
+-- 1) Overall churn rate (how many customers left?)
 SELECT 
     COUNT(*) AS total_customers,
     SUM(CASE WHEN Exited = 1 THEN 1 ELSE 0 END) AS churned_customers,

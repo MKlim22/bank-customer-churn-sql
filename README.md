@@ -54,6 +54,6 @@ The dataset contains information about 10,000 bank customers including:
 
 ## Tools used
 
-SQL (SQLite)
-Vs Code
-Git & GitHub
+- SQL (SQLite)
+- Vs Code
+- Git & GitHub
