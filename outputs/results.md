@@ -81,3 +81,24 @@ Customer churn strongly varies depending on product usage and activity level.
 Customers with **only one product and no activity show a high churn rate (36.65%)**, suggesting low engagement with the bank.
 In contrast, customers with **two products and active membership show the lowest churn rate (5.56%)**, indicating strong customer loyality.
 Segments with three or four products show extremely high churn rates, but these groups contain relatively small numbers of customers and may represent statistical outliers.
+
+## Final Insights
+
+### Highest Risk Customer Segments
+
+The highest churn risk appears among customers aged 51-65 with only one product and inactive membership. In some segments, churn exceeds 90%.
+Customers with only one product consistently show higher churn rates, especially when they are not active members.
+The most stable customer segments are younger active customers with two products, where churn rates drop below 2%.
+These results suggest that increasing customer engagement and encouraging multi-product usage may significantly reduce churn.
+
+### Lowest Risk Customer Segments
+
+The lowest churn rates appear among customers with two products, particularly among younger customers.
+
+Examples of low-risk segments include:
+- Customers under 30 with two products (churn orround 1-3%)
+- Active customers with multiple products
+- Some older active customers also show very low churn
+
+These findings suggest that product adoption and engagement strongly reduce churn risk.
+Encouraging customers to use multiple banking products may significantly improve customer retention.
