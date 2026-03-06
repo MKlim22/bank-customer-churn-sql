@@ -61,3 +61,23 @@ The churn rates across income groups are very similar:
 - Low income: 19.93%
 - Middle income: 19.87%
 This suggests that salary alone is not a strong driver of customer churn in this dataset.
+
+### Churn Risk Profiles
+
+Combining age and activity status reveals strong churn patterns.
+
+Customers aged **51-65 who are not active members show the highest churn rate (86.77%)**, representing the most at-risk segment in the dataset.
+Similarly, **inactive customers aged 65+ also show vey high churn (62.5%)**.
+Customer activity significantly reduces churn risk. For example:
+- Age 51-65 inactive: 86.77% churn
+- Age 51-65 active: 30.96% churn
+
+The most loyal group consists of **active customers under 30**, with a churn rate of only **5.38%**.
+These results highlight the importance of customer engagement in reducing churn.
+
+### Product Usage Risk Profiles
+
+Customer churn strongly varies depending on product usage and activity level.
+Customers with **only one product and no activity show a high churn rate (36.65%)**, suggesting low engagement with the bank.
+In contrast, customers with **two products and active membership show the lowest churn rate (5.56%)**, indicating strong customer loyality.
+Segments with three or four products show extremely high churn rates, but these groups contain relatively small numbers of customers and may represent statistical outliers.
