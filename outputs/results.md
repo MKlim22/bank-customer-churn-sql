@@ -96,9 +96,19 @@ These results suggest that increasing customer engagement and encouraging multi-
 The lowest churn rates appear among customers with two products, particularly among younger customers.
 
 Examples of low-risk segments include:
-- Customers under 30 with two products (churn orround 1-3%)
+- Customers under 30 with two products (churn arround 1-3%)
 - Active customers with multiple products
 - Some older active customers also show very low churn
 
 These findings suggest that product adoption and engagement strongly reduce churn risk.
 Encouraging customers to use multiple banking products may significantly improve customer retention.
+
+## Business Recomendations
+
+Based on the analysis, several actions could help reduce customer churn:
+- Increase engagement of **inactive customers**, especially in the **51-65 age group**, as they represent the highest churn risk segment.
+- Encourage customers to adopt **multiple anking products**, since customers with only one product show significantly higher churn rates.
+- Develop targeted retention strategies for customers in **Germany**, where churn rates are noticeably higher than in other regions.
+- Promote loyalty programs or personalized offers for **customers with low engagement levels**.
+
+Improving customer activity and promoting multi-product usage may significantly reduce churn and increase long-term customer retention.
