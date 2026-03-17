@@ -98,4 +98,4 @@ These findings suggest that increasing customer engagement and encouraging multi
 
 Customer churn rate by country:
 
-![Customer Churn By Country](outputs/figures/churn_rate_by_country.png)
+![Customer Churn By Country](outputs/figures/churn_by_country.png)
